@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(9, 192, 192);
+}
+#intro{
+    font-family: 'Bebas Neue', sans-serif;
+    font: bold;
+    color:rgb(241, 241, 241);
+    background-color:rgb(4, 145, 145);
+    border-style: inset;
+    border-color:hsl(180, 100%, 33%);
+    border-width: 5px;
+    padding: 4px;
+    border-radius: 4px;
+}
+p{
+    color: rgb(255, 255, 255);
+}
+
+.butforth{
+    font-family: cursive;
+    font-size: x-large;
+    color:rgb(241, 241, 241);
+    background-color:rgb(91, 181, 223);
+    border-style: outset;
+    border-color:hsl(207, 52%, 52%);
+    border-width: 7px;
+}
+
+.Butback{
+    font-size: larger;
+    color:rgb(241, 241, 241);
+    background-color:rgb(231, 95, 95);
+    border-style: outset;
+    border-color:hsl(0, 50%, 43%);
+    border-width: 7px;
+}
+
+.totop{
+    font-size: larger;
+    color:rgb(255, 255, 255);
+    background-color:rgb(105, 204, 110);
+    border-style: groove;
+    border-color:rgb(87, 161, 90);
+    border-width: 7px;
+}
+
+.Audio{
+    border-style: inset;
+    border-radius: 100px;
+    border-color: rgb(91, 181, 223);
+    border-width: 10px;
+}
+
+.title{
+    color: white;
+    font: bold;
+}
